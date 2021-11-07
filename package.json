@@ -1,0 +1,19 @@
+{
+  "name": "atividadeavaliativa1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test",
+    "src":"src"
+  },
+  "scripts": {
+    "test": "jest --coverage"
+    
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^27.3.1"
+  }
+}
